@@ -1,1 +1,1 @@
-# Time-fractional Allen-Cahn Solver
+# Time-fractional Allen-Cahn Equation Solver
