@@ -2,3 +2,5 @@
 *.npy
 *.json
 *.png
+.husky/
+*.js
