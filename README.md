@@ -25,6 +25,7 @@ Regarding the time-fractional Allen-Cahn equation, the temporal derivative term 
 $$
 {}_CD_t^{\alpha} u = \epsilon^2 \Delta u -W'(u)
 $$
+
 where $\displaystyle {}_CD_t^{\alpha} u=\int_0^t \frac{(t-s)^{\alpha}}{\Gamma{(1-\alpha)}}u'(s)d$ represents the Caputo derivative with respect to time for $u$.
 
 
